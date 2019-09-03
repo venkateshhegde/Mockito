@@ -12,7 +12,7 @@ import org.ven.mockitilearning.model.api.Pojo;
 import static org.mockito.Mockito.*;
 
 @RunWith(MockitoJUnitRunner.class)
-public class ShorthandMocks {
+public class TestShorthandMocks {
 
     @Mock
     IBusinessInterface ibi;
